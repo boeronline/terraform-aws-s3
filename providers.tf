@@ -1,4 +1,4 @@
+#Adding Provider details
 provider "aws" {
-  region              = var.region
- 
+  region = "eu-central-1"
 }
